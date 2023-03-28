@@ -1,0 +1,56 @@
+/**
+* @name magolor
+* @version Auto Update
+* @description stan magolor
+* @author Dreamy_Cloudss
+* @invite ZHthyCw
+* @Source https://github.com/DiscordStyles/FrostedGlass
+* @website https://betterdiscord.app/theme/Frosted%20Glass
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto');
+:root {
+--background-image: url(https://i.imgur.com/FLU1k3o.gif[);
+--background-image-blur: 2px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('https://c4.wallpaperflare.com/wallpaper/135/435/810/fall-computer-backgrounds-wallpaper-preview.jpg');
+--popout-modal-blur: 100px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://discordstyles.github.io/FrostedGlass/assets/discord.svg');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.5;
+--left-brightness: 0.4;
+--middle-brightness: 0.3;
+--right-brightness: 0.2;
+--popout-modal-brightness: 0;
+--gradient-primary: 162,30,80;
+--gradient-secondary: 247,70,104;
+--gradient-direction: 320deg;
+--tint-colour: 255,44,77;
+--tint-brightness: 0.15;
+--window-padding: 15px;
+--window-roundness: 5px;
+--scrollbar-colour: #3109154D;
+--link-colour: #F41160FF;
+--show-gift-gif-buttons: block;
+--font: 'Roboto';
+--update-notice-1: none;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 4px;
+--rs-medium-width: 7px;
+--rs-large-width: 7px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #00EA7EFF;
+--rs-idle-color: #FA9700FF;
+--rs-dnd-color: #F02754FF;
+--rs-offline-color: #75505DFF;
+--rs-streaming-color: #AC1CFFFF;
+--rs-invisible-color: #6E6B8DFF;
+--rs-phone-visible: none;
+}
